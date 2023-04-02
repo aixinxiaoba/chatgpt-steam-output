@@ -13,9 +13,9 @@ WebSocket参考：[OpenAIWebSocketEventSourceListener](https://github.com/Grt122
 **最新版SDK参考：https://github.com/Grt1228/chatgpt-java** 有疑问加群**免费**解答。
 
 交流群：
-<img src="https://user-images.githubusercontent.com/27008803/225246389-7b452214-f3fe-4a70-bd3e-832a0ed34288.jpg" width="210" height="300" alt="二维码" />
+<img src="https://zszhan.cn/upload/article/image/2/20230402/zip/20230402172534_rv.jpeg" width="210" height="300" alt="二维码" />
 群满加微信拉：
-<img src="https://user-images.githubusercontent.com/27008803/225246581-15e90f78-5438-4637-8e7d-14c68ca13b59.jpg" width="210" height="300" alt="二维码" />
+<img src="https://zszhan.cn/upload/article/image/2/20230402/zip/20230402172425_lb.jpeg" width="210" height="300" alt="二维码" />
 
 # SSE
 主要是基于[SSE](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events#event_stream_format) 实现的（可以百度下这个技术）。也是最近在了解到SSE。OpenAI官网在接受Completions接口的时候，有提到过这个技术。
